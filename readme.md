@@ -7,17 +7,14 @@
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 ## Contents <!-- omit in toc -->
-- [Web Games](#web-games)
 - [Steam Games](#steam-games)
   - [Released](#released)
   - [Early Access](#early-access)
   - [To Wishlist](#to-wishlist)
+- [Web Games](#web-games)
+- [Chess Puzzle Games](#chess-puzzle-games)
 
 
-## Web Games
-
-- [Chessle](https://jackli.gg/chessle/) - Wordle inspired game with chess openings.
-- [Guess The Elo](https://guesstheelo.com/) - Quiz game where you guess the Elo rating of a chess match.
 
 
 ## Steam Games
@@ -36,3 +33,14 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 ### To Wishlist
 
 - [RPG Chess](https://store.steampowered.com/app/3383450/RPG_Chess/) - A turn-based RPG, except it's also chess.
+
+
+## Web Games
+
+- [Chessle](https://jackli.gg/chessle/) - Wordle inspired game with chess openings.
+- [Guess The Elo](https://guesstheelo.com/) - Quiz game where you guess the Elo rating of a chess match.
+
+## Chess Puzzle Games
+
+- Puzzle Rush - [Puzzle Rush (Chess.com)](https://www.chess.com/puzzles/rush) / [Puzzle Storm (Lichess)](https://lichess.org/storm) - Solve as much puzzles you can in limited time.
+- Puzzle Battle - [Puzzle Battle (Chess.com)](https://www.chess.com/puzzles/battle) / [Puzzle Racer (Lichess)](https://lichess.org/racer) - Solve puzzles faster than your opponents.
