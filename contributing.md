@@ -1,25 +1,26 @@
 # Contribution Guidelines
 
 Please note that this project is released with a
-[Contributor Code of Conduct](code-of-conduct.md). By participating in this
+[Contributor Code of Conduct](code-of-conduct.md).  
+By participating in this
 project you agree to abide by its terms.
+
+---
+
+**In addition to pull requests, you can also suggest entries by replying to these posts on social networks:**
+
+- [Bluesky]()
+- [Twitter]()
+- [Ko-fi]()
 
 ---
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- Avoid duplicates: Check if the game is already listed.  
+- No abusive self-promotion: Ensure your submission provides value to the list.  
+- No NSFW content: Submissions must be suitable for all audiences.  
+
+---
 
 Thank you for your suggestions!
-
-
-## Updating your PR
-
-A lot of times, making a PR adhere to the standards above can be difficult.
-If the maintainers notice anything that we'd like changed, we'll ask you to
-edit your PR before we merge it. There's no need to open a new PR, just edit
-the existing one. If you're not sure how to do that,
-[here is a guide](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md)
-on the different ways you can update your PR so that we can merge it.
