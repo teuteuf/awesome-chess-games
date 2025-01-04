@@ -1,4 +1,4 @@
-# Awesome Chess Games [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <!-- omit in toc -->
+# Awesome Chess-Inspired Games [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <!-- omit in toc -->
 
 > A curated list of games to play chess-inspired gameplay.
 
